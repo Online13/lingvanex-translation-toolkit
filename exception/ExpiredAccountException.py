@@ -1,0 +1,2 @@
+class ExpiredAccountException(Exception):
+    pass

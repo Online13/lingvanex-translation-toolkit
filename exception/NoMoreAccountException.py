@@ -1,0 +1,2 @@
+class NoMoreAccountException(Exception):
+    pass
